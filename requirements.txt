@@ -1,0 +1,5 @@
+pytk
+customtkinter
+pillow
+sockets
+tk
